@@ -1,6 +1,4 @@
 
-# EXAMPLE 1 - try / except
-
 denominator = int(input("Please eneter a number to divide by: "))
 
 try:
